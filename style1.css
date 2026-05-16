@@ -1,0 +1,58 @@
+header{
+	background-color:#F1F5F9; 
+}
+
+h1{
+	background-color: #1E3A8A;
+	color: #F9FAFB;
+}
+.conteiner{
+	background-color:(rgba(255,255,255,0.9));
+	text-align:justify;
+
+	display:block;
+	margin:2px;
+	padding;20px;
+}
+
+	
+.about{
+	background-color:(rgba(255,255,255,0.9));
+	text-align:justify;
+	border:2px solid black;
+	display:block;
+	margin:2px;
+	padding;20px;
+}
+
+.mission{
+	background-color:(rgba(255,255,255,0.9));
+	text-align:justify;
+	border:2px solid black;
+	display:block;
+	margin:2px;
+	padding;20px;
+}
+	
+.vision{
+	background-color:(rgba(255,255,255,0.9));
+	text-align:justify;
+	border:2px solid black;
+	display:block;
+	margin:2px;
+	padding;20px;
+
+}
+
+h2{
+	color: #1E3A8A;
+}
+button{
+	background-color:#1E3A8A;
+	color: #F9FAFB
+}
+footer{
+	background-color:#1E3A8A;
+	color:#F9FAFB;
+	
+}
