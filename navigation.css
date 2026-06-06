@@ -1,0 +1,27 @@
+.nav ul{
+	
+	float:left;
+	
+	
+}
+.nav ul li{
+	list-style:none;
+		display:inline;
+
+}
+.nav ul li a{
+	text-decoration:none;
+	padding:20px;
+}
+header{
+
+	justify-content:space-around;
+    background-color:pink;
+		display:flex;
+}
+.nav a:hover{
+	background-color:gray;
+}
+body{
+	background-image:url('cake.png');
+}

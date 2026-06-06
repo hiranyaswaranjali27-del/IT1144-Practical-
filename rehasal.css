@@ -1,0 +1,32 @@
+.logo{
+	
+}
+.nav ul{
+	padding:20px;
+	float:right;
+	
+
+	
+}
+.nav ul li{
+	list-style:none;
+	display:inline;
+
+}
+.nav ul li a{
+	text-decoration:none;
+	color:black;
+	padding:15px;
+	
+}
+header{
+	background-color:pink;
+	display:flex;
+	justify-content:space-around;
+}
+.nav a:hover{
+	background-color:gray;
+}
+footer{
+	background-color:pink;
+}
